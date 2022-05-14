@@ -2,7 +2,7 @@
 
 ![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome i'm massi! 👋
 
 Thanks for checking out this front-end coding challenge.
 
