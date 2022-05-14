@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    
+}
+
 .hero {
     display: flex;
     flex-direction: column;
@@ -11,5 +15,51 @@
 }
 
 .hero h1 {
+color: hsl(225, 45%, 23%);
+}
+
+.hero p {
+    margin-top: 0.75rem;
+}
+
+.info{
+    padding: 2rem;
+    width: 30%;
+    
+    margin-top: 3rem;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
+.stats h3{
+    color: grey;
+}
+
+#circle-container{
+    width: 80%;
+    border: 1px solid magenta;
+    height: 8px;
+    margin-top: 2rem;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circle{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: greenyellow;
+}
+
+.billing{
+    display: flex;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
